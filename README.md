@@ -17,4 +17,4 @@ then you unzip all files to a desired location and edit the code to your will
 
 ## Contact me?
 
-If you have a question, feel free to ask me! You can send me a private message on [Twitter](https://twitter.com/ipingspoofer), send me an [email](mailto:justin@justinpooters.nl) at `justin@justinpooters.nl` or Sending me a DM on Discord `UnknownUser#1337`! I will be helping every question.
+If you have a question, feel free to ask me! You can send me a private message on [Twitter](https://twitter.com/justinpooters), send me an [email](mailto:justin@justinpooters.nl) at `justin@justinpooters.nl` or Sending me a DM on Discord `Justin#2101`! I will be helping every question.
